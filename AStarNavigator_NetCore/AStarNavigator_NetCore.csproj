@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Description>Forked from AStarNavigator</Description>
+    <Authors>ishowfun</Authors>
+    <PackageId>AStarNavigator.NetCore</PackageId>
+    <Product>AStarNavigator.NetCore</Product>
+    <RepositoryUrl></RepositoryUrl>
+    <PackageProjectUrl>https://github.com/ishowfun/astar-navigator</PackageProjectUrl>
+    <PackageIcon></PackageIcon>
+    <PackageIconUrl />
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
