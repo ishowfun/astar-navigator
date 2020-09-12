@@ -1,21 +1,21 @@
 # AStar Navigator 
-[![Build](https://ci.appveyor.com/api/projects/status/fu2jsiaylryisy5t?svg=true)](https://ci.appveyor.com/project/WichardRiezebos/astar) [![NuGet](https://buildstats.info/nuget/AStarNavigator)](https://www.nuget.org/packages/AStarNavigator/) [![Join the chat at https://gitter.im/astar-navigator/Lobby](https://badges.gitter.im/astar-navigator/Lobby.svg)](https://gitter.im/astar-navigator/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![NuGet](https://buildstats.info/nuget/AStarNavigator.netcore)](https://www.nuget.org/packages/AStarNavigator.netcore/) [![Join the chat at https://gitter.im/astar-navigator/Lobby](https://badges.gitter.im/astar-navigator/Lobby.svg)](https://gitter.im/astar-navigator/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Portable NuGet library/package for navigating on a tile-based 2-dimensional raster/matrix.
 
 ## Prerequisites
 
-- .NET Framework 3.5
+- .NET Core 3.0
 
 ## Installation
 
 Install the NuGet package using the command below:
 
 ```
-Install-Package AStarNavigator
+Install-Package AStarNavigator.netcore
 ```
 
-... or search for `AStarNavigator` in the NuGet index.
+... or search for `AStarNavigator.netcore` in the NuGet index.
 
 ## Getting started
 The code below is an example how to use the library.
